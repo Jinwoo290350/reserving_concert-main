@@ -123,3 +123,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 test.py
+
+# Local credentials and runtime artefacts
+userdetail.json
+crash-*.png
+*.har

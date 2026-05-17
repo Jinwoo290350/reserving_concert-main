@@ -1,0 +1,10 @@
+{
+    "email": "your-email@example.com",
+    "pwd": "your-password",
+    "concert": "KCON 2023 THAILAND",
+    "zone": "V1",
+    "show": "1",
+    "seats": "4",
+    "zones_fallback": ["V2", "BR", "OR"],
+    "drop_at": "2026-05-20T10:00:00+07:00"
+}
